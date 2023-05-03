@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Oh%20Gilhwan&fontSize=90" />
+<br/> 
+ 
+### 👉 About Me 👈
 
-<!--
-**5kiran/5kiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://5kiran.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:dhrlfghks01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dhrlfghks01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Interested in 
+ <br><br>
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  <br>
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+ <br>
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingseungil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C62D2D&title=hits&edge_flat=false"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5kiran&show_icons=true&theme=react)
+
+
+</div>
