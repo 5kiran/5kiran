@@ -4,12 +4,14 @@
 
 <div align="center">
   👉 About Me 👈
+  <br/>
+  <p>
+    <a href="https://5kiran.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <a href="mailto:dhrlfghks01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dhrlfghks01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  </p>
 </div>
 
 
-<br/>
 
-<p>
-  <a href="https://5kiran.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:dhrlfghks01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dhrlfghks01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+
+
