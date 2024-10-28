@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://github.com/user-attachments/assets/974fbe59-109f-47b1-97cf-7e16da23c40d" />
 </div>
  
 👉 About Me 👈
