@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Oh%20Gilhwan&fontSize=90" />
+<img src="https://5kiran/5kiran/logo.gif" />
 <br/> 
  
 👉 About Me 👈
