@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <br/>
 
-  <h2 style="text-align: center;">Contact US 📫</h2>
+  <h2 style="text-align: center;">📫 Contact 📫</h2>
   <br/>
   <a href="https://5kiran.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FF6000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://blog.naver.com/ssses1/" target="_blank"><img src="https://img.shields.io/badge/NBLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -49,6 +49,12 @@
   <br/>
   
 </div>
+
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=5kiran&show_icons=true&theme=radical">
+</div>
+
+
 
 
 
