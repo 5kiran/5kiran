@@ -47,14 +47,19 @@
   
   <a href="mailto:gilhwoan.develop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br/>
-  
+
+  <h2 style="text-align: center;">📊 Status 📊</h2>
+  <br/>
 </div>
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=5kiran&show_icons=true&theme=radical">
-</div>
+
+<p align="center">
 
 
+<a href="https://github.com/5kiran">
+  <img align="center" src="https://github-readme-stats-plum-five-48.vercel.app/api?username=5kiran&count_private=true&show_icons=true&&theme=radical" height="180"/>
+</a>
+</p>
 
 
 
