@@ -54,13 +54,13 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kiran&layout=donut&show_icons=true&theme=chartreuse-dark&hide_border=true&&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kiran&layout=donut&show_icons=true&theme=chartreuse-dark&hide_border=true&&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-plum-five-48.vercel.app/api?username=5kiran&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width=56% />
+  <img src="https://github-readme-stats-plum-five-48.vercel.app/api?username=5kiran&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width=59% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5kiran&theme=chartreuse_dark" width=94%/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5kiran&theme=chartreuse_dark" width=100%/>
 </a>
 
 
