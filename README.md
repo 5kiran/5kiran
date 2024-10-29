@@ -7,7 +7,7 @@
   <br/>
   <p>
     <a href="https://5kiran.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
-    <a href="mailto:gilhwoan.develop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gilhwoan.develop@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:gilhwoan.develop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gilhwoan.develop@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
 </div>
 
