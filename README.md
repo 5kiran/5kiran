@@ -52,9 +52,9 @@
 </div>
 
 <div align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-plum-five-48.vercel.app/api?username=5kiran&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5kiran&theme=chartreuse_dark"/>
   </a> 
