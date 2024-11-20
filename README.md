@@ -42,9 +42,15 @@
 
   Contact
   <br/>
-  <a href="https://5kiran.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FF6000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://blog.naver.com/ssses1/" target="_blank"><img src="https://img.shields.io/badge/NBLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
-  <a href="mailto:gilhwoan.develop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://5kiran.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-EC4815?style=for-the-badge&logo=tistory&logoColor=white">
+  </a>
+      <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <a href="https://blog.naver.com/ssses1/" target="_blank">
+  </a>  
+  <a href="mailto:gilhwoan.develop@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <br/>
 
   <h2 style="text-align: center;">📊 Status 📊</h2>
